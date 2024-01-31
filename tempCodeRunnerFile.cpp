@@ -1,0 +1,2 @@
+ alpha;
+    // cin>>alpha;
