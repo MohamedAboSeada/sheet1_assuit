@@ -59,7 +59,6 @@ int main(){
     ll a,b;
     cin>>a>>b;
     adder add(a,b);
-    ll result = add.result();
-    cout<<result<<endl;    
+    cout<<add.result()<<endl;
     return 0;
 }
